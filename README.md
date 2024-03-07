@@ -25,7 +25,8 @@ This project is tested on Raspberry Pi 4 Model B with 4 GB RAM with the 64-bit U
 | -------------- | ---- | ------ | ---------------------------- | ------------------------- |
 | Raspberry Pi 4 | 4 GB | Ubuntu | ~ 2.3 FPS                   | ~ 0.91 FPS                |
 
-![](media/Video%20Edit.mp4)
+https://github.com/KozhaAkhmet/depth-car/assets/80167990/6c15b464-dc7b-41f7-bc2a-608e26f3cbc1
+
 
 ## Installation
 
