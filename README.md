@@ -25,7 +25,7 @@ This project is tested on Raspberry Pi 4 Model B with 4 GB RAM with the 64-bit U
 | -------------- | ---- | ------ | ---------------------------- | ------------------------- |
 | Raspberry Pi 4 | 4 GB | Ubuntu | ~ 2.3 FPS                   | ~ 0.91 FPS                |
 
-![](media/Video%20Edit.gif)
+![](media/Video%20Edit.mp4)
 
 ## Installation
 
