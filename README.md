@@ -1,7 +1,7 @@
 # Depth-Car
 **Depth-Car** _A four wheel drive car with _monocular depth estimation.__
 
-![](media/DSC01407.JPG)
+![](media/MainPhoto.jpg)
 
 <p align="center"><a href="https://github.com/KozhaAkhmet/depth-car/wiki">
 <strong> Read the docs » </strong></a></p>
