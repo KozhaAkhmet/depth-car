@@ -5,17 +5,20 @@
 
 <p align="center"><a href="https://github.com/KozhaAkhmet/depth-car/wiki">
 <strong> Read the docs » </strong></a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing">
+<strong> Read the Thesis (in Turkish) » </strong></a></p>
 
 ## About the Project
 
 Depth Car is an autonomous car with Monocular depth estimation using MiDAS, TensorFlow Lite and OpenCV on The Raspberry Pi 4, written in C++.
 
-This project uses Midas Depth Estimation as a core part of the project. So it is recommended to have basic knowledge about it. 
+This project uses Midas Depth Estimation as a core part of the project. I suggest checking it out before proceeding with this project.
+ 
 There is an example repository that explains the model and installation steps. The repository is available at [Midas Cpp Example](https://github.com/KozhaAkhmet/MiDaS-v2.1-small-cpp).
 
 The detection uses a simple algorithm, which extracts a particular layer from the calculated estimation and stores it as a binary image. The robot then calculates whether to move left or right by calculating and analyzing the number of pixels on the image.
 
-The aim of the project is to achieve a simple yet fast solution suitable to run on Raspberry Pi 4+ devices using C++ only. This project is developed as my bachelor's degree graduation project **"Making an Autonomous Car with Depth Estimation"**.  
+The aim of the project is to achieve a simple yet fast solution suitable to run on Raspberry Pi 4+ devices using C++ only. This project is developed as my bachelor's degree graduation project **"Deep Learning and It's Application"**. The thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing) 
 
 ## Results
 
@@ -38,6 +41,8 @@ Licensed under the [GNU General Public License](https://github.com/KozhaAkhmet/d
 ## Contact
 
 **Depth-Car** _A four wheel drive car with _monocular depth estimation.__
+
+The original thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing) 
 
 <i>Developed by <a href="https://github.com/KozhaAkhmet">Kozha Akhmet Abdramanov</a>
 
