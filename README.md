@@ -18,7 +18,7 @@ There is an example repository that explains the model and installation steps. T
 
 The detection uses a simple algorithm, which extracts a particular layer from the calculated estimation and stores it as a binary image. The robot then calculates whether to move left or right by calculating and analyzing the number of pixels on the image.
 
-The aim of the project is to achieve a simple yet fast solution suitable to run on Raspberry Pi 4+ devices using C++ only. This project is developed as my bachelor's degree graduation project **"Deep Learning and It's Application"**. The thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing) 
+The aim of the project is to achieve a simple yet fast solution suitable to run on Raspberry Pi 4+ devices using C++ only. This project is developed as my bachelor's degree graduation project **"Deep Learning and Its Application"**. The thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing) 
 
 ## Results
 
