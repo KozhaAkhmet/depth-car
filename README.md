@@ -1,5 +1,5 @@
 # Depth-Car
-**Depth-Car** _A four wheel drive car with _monocular depth estimation.__
+**Depth-Car** — _A four-wheel-drive car with monocular depth estimation._
 
 ![](media/MainPhoto.jpg)
 
@@ -10,7 +10,7 @@
 
 ## About the Project
 
-Depth Car is an autonomous car with Monocular depth estimation using MiDAS, TensorFlow Lite and OpenCV on The Raspberry Pi 4, written in C++.
+Depth Car is an autonomous car with monocular depth estimation using MiDAS, TensorFlow Lite and OpenCV on the Raspberry Pi 4, written in C++.
 
 This project uses Midas Depth Estimation as a core part of the project. I suggest checking it out before proceeding with this project.
  
@@ -22,7 +22,7 @@ The aim of the project is to achieve a simple yet fast solution suitable to run 
 
 ## Results
 
-This project is tested on Raspberry Pi 4 Model B with 4 GB RAM with the 64-bit Ubuntu 22.04 without overclocking. Used a 3A power supply. Here are the results:
+This project is tested on a Raspberry Pi 4 Model B with 4 GB RAM, running 64-bit Ubuntu 22.04 without overclocking, using a 3A power supply. Here are the results:
 
 | Device         | RAM  | OS     | Multithread(All) Performance | Single Thread Performance |
 | -------------- | ---- | ------ | ---------------------------- | ------------------------- |
@@ -40,11 +40,11 @@ Licensed under the [GNU General Public License](https://github.com/KozhaAkhmet/d
 
 ## Contact
 
-**Depth-Car** _A four wheel drive car with _monocular depth estimation.__
+**Depth-Car** — _A four-wheel-drive car with monocular depth estimation._
 
-The original thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing) 
+The original thesis is in Turkish and available [here](https://drive.google.com/file/d/1z04SJp82yfzTh-r0C52tlgdDI_OQD_8m/view?usp=sharing).
 
-<i>Developed by <a href="https://github.com/KozhaAkhmet">Kozha Akhmet Abdramanov</a>
+<i>Developed by <a href="https://github.com/KozhaAkhmet">Kozha Akhmet Abdramanov</a></i>
 
 * Robot Car with Depth Estimation Source Code: 
 [KozhaAkhmet/depth-car](https://github.com/KozhaAkhmet/depth-car)
